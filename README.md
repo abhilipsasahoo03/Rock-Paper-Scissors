@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-A simple Rock-Paper-Scissors game in Java. 
+A simple script in Java to implement the Rock-Paper-Scissors game
 
 
 ## About the game:
